@@ -1,0 +1,5 @@
+This is a sample data file.
+It contains various numeric values: 10 9 5 3 2
+Some numbers may appear in the middle of text like 3.14 or 42.
+There can be both positive and negative values: 8.7 -100 4.5
+End of the data file.
